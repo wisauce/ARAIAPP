@@ -1,0 +1,1 @@
+"""Araiap backend application."""
